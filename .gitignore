@@ -1,0 +1,5 @@
+portfolio/node_modules/
+portfolio/build/
+portfolio/.env
+portfolio/.env.local
+portfolio/.vscode/
